@@ -1,1 +1,2 @@
-Hello espero que lea esto
+<h1>¡Funciona!</h1>
+<p>Este html se hizo desde VS Code.</p>
